@@ -1,0 +1,33 @@
+{
+  "name": "aggridissue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jrgleason/AgGridIssue.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jrgleason/AgGridIssue/issues"
+  },
+  "homepage": "https://github.com/jrgleason/AgGridIssue#readme",
+  "dependencies": {
+    "ag-grid": "^6.0.1",
+    "angular": "^1.5.8"
+  },
+  "devDependencies": {
+    "glob-flat": "^1.0.0",
+    "karma": "^1.3.0",
+    "karma-chrome-launcher": "^2.0.0",
+    "karma-coffee-preprocessor": "^1.0.1",
+    "karma-mocha": "^1.2.0",
+    "karma-requirejs": "^1.1.0",
+    "mocha": "^3.1.0",
+    "requirejs": "^2.3.2"
+  }
+}
